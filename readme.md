@@ -59,12 +59,12 @@
 Полезные ссылки
 ---------------
 
-[Cистемные вызовы GNU/Linux + описание аргументов](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
-[Сервис DOS](http://www.codenet.ru/progr/dos/int_0026.php)
-[Справочник по инструкциям](http://looch-disasm.narod.ru/refe34.htm)
-[Информация по регистрам](http://www.ccfit.nsu.ru/~kireev/lab2/lab2reg.htm)
-[VirtualBox](https://www.virtualbox.org/)
-[FASM](https://flatassembler.net/)
-[NASM](https://www.nasm.us/)
-[DOSBox](https://www.dosbox.com/)
-[Редактор Geany](https://www.geany.org/)
++ [Cистемные вызовы GNU/Linux + описание аргументов](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
++ [Сервис DOS](http://www.codenet.ru/progr/dos/int_0026.php)
++ [Справочник по инструкциям](http://looch-disasm.narod.ru/refe34.htm)
++ [Информация по регистрам](http://www.ccfit.nsu.ru/~kireev/lab2/lab2reg.htm)
++ [VirtualBox](https://www.virtualbox.org/)
++ [FASM](https://flatassembler.net/)
++ [NASM](https://www.nasm.us/)
++ [DOSBox](https://www.dosbox.com/)
++ [Редактор Geany](https://www.geany.org/)
